@@ -1,0 +1,14 @@
+{
+	"Adroll"          : "adroll_adv_id",
+	"Simplifi"        : "i.simpli.fi/dpx.js",
+	"Retargeter"      : "var _rt_js_base_url",
+	"PerfectAudience" : "tag.perfectaudience.com/serve",
+	"Turn"            : "d.turn.com/r/dft/id",
+	"Appnexus"        : "adnxs.com/seg",
+	"Chango"          : "chango.com/ct?id:",
+	"Criteo"          : "CRITEO_CONF",
+	"SiteScout"       : "/sitescout.com/i",
+	"TradeDesk"       : "thetradedesk-ads",
+	"Magnetic"        : "magnetic.t.domdex.com",
+	"Bluekai"         : "tags.bluekai.com"
+}
