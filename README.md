@@ -3,9 +3,7 @@ GoLang Web Crawler
 
 A Go lang web crawler searches through the top 1 million Alexa sites for content/ tags/ etc.
 
-## Meteora Crawler
-
-Crawl - an utility for fetching and parsing Alexa Top-1M sites in parallel mode. Alexa Top-1M gzipped CSV file: [click](https://www.dropbox.com/s/jckqlbf01bwn5g0/top-1m.csv.gz?dl=1). Do not unpack it.
+Crawl - a utility for fetching and parsing Alexa Top-1M sites in parallel mode. Alexa Top-1M gzipped CSV file: [click](https://www.dropbox.com/s/jckqlbf01bwn5g0/top-1m.csv.gz?dl=1). Do not unpack it.
 
 ### Installation
 
